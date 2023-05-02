@@ -1,0 +1,17 @@
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.csproj.AssemblyReference.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.AssemblyInfoInputs.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.AssemblyInfo.cs
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.csproj.CoreCompileInputs.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\bin\Debug\net6.0\Inventory_Management_Program.exe
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\bin\Debug\net6.0\Inventory_Management_Program.deps.json
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\bin\Debug\net6.0\Inventory_Management_Program.runtimeconfig.json
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\bin\Debug\net6.0\Inventory_Management_Program.dll
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\bin\Debug\net6.0\Inventory_Management_Program.pdb
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.csproj.CopyComplete
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.dll
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\refint\Inventory_Management_Program.dll
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.pdb
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\Inventory_Management_Program.genruntimeconfig.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\Inventory_Management_Program\Inventory_Management_Program\obj\Debug\net6.0\ref\Inventory_Management_Program.dll
